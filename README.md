@@ -108,3 +108,6 @@ npm run build
 ```
 
 The build folder will contain the optimized production files.
+
+Contributed by aadarshmunna221 as a test update.
+
